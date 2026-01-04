@@ -4,7 +4,7 @@
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+This app summarizes a book and converts it into an slide
 
 View your app in AI Studio: https://ai.studio/apps/drive/1GKL44gnKMA5LnAHVfgoOlcLKkERLdhR8
 
